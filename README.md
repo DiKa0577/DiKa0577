@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/andhiikafauzi" target="blank"><img src="https://img.shields.io/twitter/follow/andhiikafauzi?logo=twitter&style=for-the-badge" alt="andhiikafauzi" /></a> </p>
 
-- 🔭 I’m currently working on **Discord.bot**
+- 🔭 I’m currently working on **Discord Bot**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dika0577&show_icons=true&locale=en&layout=compact" alt="dika0577" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dika0577&show_icons=true&locale=en" alt="dika0577" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dika0577&" alt="dika0577" /></p>
